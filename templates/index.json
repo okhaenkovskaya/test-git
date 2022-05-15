@@ -32,8 +32,9 @@
     "16332987808e571964": {
       "type": "half-media-text",
       "settings": {
+        "half_image": "shopify:\/\/shop_images\/a-model-in-khakis-holding-orchids.jpg",
         "half_image_p": "1",
-        "half_video": "",
+        "half_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/dde99b98b6e54998acb5ea688d102e62.mp4",
         "half_title": "Shopify Plus UX Design & Development",
         "half_title_tag": "h3",
         "half_text": "<p>As a Shopify agency, we build and optimized completely custom, on-brand eCommerce user-experiences powered by Shopify Plus. Our themes are scalable, fast and optimized for conversions, so you can have complete control over your brand's customer experience and grow your business.<\/p>",
