@@ -47,6 +47,7 @@
     "16332987823b33b422": {
       "type": "half-media-text",
       "settings": {
+        "half_image": "shopify:\/\/shop_images\/hiking-above-clouds-at-sunset.jpg",
         "half_image_p": "2",
         "half_video": "",
         "half_title": "eCommerce Platform Migrations.",
@@ -84,6 +85,12 @@
         "title": "Contact form",
         "form_id": "ContactForm"
       }
+    },
+    "165262667707f05449": {
+      "type": "list-collections",
+      "settings": {
+        "title": "Collections"
+      }
     }
   },
   "order": [
@@ -91,6 +98,7 @@
     "163329877533384385",
     "16332987808e571964",
     "16332987823b33b422",
-    "164486929730ceebea"
+    "164486929730ceebea",
+    "165262667707f05449"
   ]
 }
