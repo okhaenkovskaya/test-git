@@ -3,7 +3,7 @@
     "1633298769daf14fc7": {
       "type": "hero-banner",
       "settings": {
-        "hero_img": "shopify:\/\/shop_images\/avex-home-hugo-boss.jpg",
+        "hero_img": "shopify:\/\/shop_images\/hiking-above-clouds-at-sunset.jpg",
         "hero_video": "",
         "hero_pre_title": "NYC SHOPIFY PLUS ECOMMERCE AGENCY",
         "hero_title": "eCommerce",
@@ -32,7 +32,6 @@
     "16332987808e571964": {
       "type": "half-media-text",
       "settings": {
-        "half_image": "shopify:\/\/shop_images\/Customization___Design_-_1.jpg",
         "half_image_p": "1",
         "half_video": "",
         "half_title": "Shopify Plus UX Design & Development",
@@ -47,7 +46,6 @@
     "16332987823b33b422": {
       "type": "half-media-text",
       "settings": {
-        "half_image": "shopify:\/\/shop_images\/Seamless_Migration-1.jpg",
         "half_image_p": "2",
         "half_video": "",
         "half_title": "eCommerce Platform Migrations.",
