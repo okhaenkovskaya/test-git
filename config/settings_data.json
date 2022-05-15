@@ -7,8 +7,7 @@
           "96eaec1b-2e8c-482f-a375-ebceb4abc648": {
             "type": "menu",
             "settings": {
-              "menuitem": "shop",
-              "f_image": "shopify:\/\/shop_images\/210210215637-best-jewelry-under-100-lead.jpg",
+              "menuitem": "main-menu",
               "f_image_ord": "0",
               "f_color": "#202020",
               "f_pretitle": "Handmade",
@@ -20,19 +19,7 @@
           "a91fe195-ec38-4cc2-b888-16179535d20d": {
             "type": "menu",
             "settings": {
-              "menuitem": "about",
-              "f_image_ord": "0",
-              "f_color": "#ffffff",
-              "f_pretitle": "",
-              "f_title": "",
-              "f_urltext": "",
-              "f_url": ""
-            }
-          },
-          "072412a3-aba4-4d32-8022-cfe7a5cb9d9e": {
-            "type": "menu",
-            "settings": {
-              "menuitem": "contact-us",
+              "menuitem": "footer",
               "f_image_ord": "0",
               "f_color": "#ffffff",
               "f_pretitle": "",
@@ -44,8 +31,7 @@
         },
         "block_order": [
           "96eaec1b-2e8c-482f-a375-ebceb4abc648",
-          "a91fe195-ec38-4cc2-b888-16179535d20d",
-          "072412a3-aba4-4d32-8022-cfe7a5cb9d9e"
+          "a91fe195-ec38-4cc2-b888-16179535d20d"
         ],
         "settings": {
           "infobar": "<p>FREE SHIPPING ON ALL DOMESTIC ORDERS OVER $250<\/p>",
@@ -53,6 +39,7 @@
           "infobar_textcolor": "#000000",
           "nav_show": true,
           "main_logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/0580\/9379\/7582\/files\/avex-logo_white.svg?v=1630438078",
+          "main_logo_text": "",
           "search_icon": true,
           "wish_icon": true,
           "user_icon": true,
@@ -65,7 +52,8 @@
           "footer_linklist": "footer",
           "copyrights": "Avex Designs",
           "newsletter_title": "Newsletter",
-          "newsletter_element": "<div class=\"klaviyo-form-SJLAFx\"><\/div>"
+          "newsletter_element": "<div class=\"klaviyo-form-SJLAFx\"><\/div>",
+          "footer_socials": ""
         }
       },
       "ajax-cart": {
@@ -74,6 +62,11 @@
           "cart_title": "My Bag",
           "cart_text": "Free shipping on all domestic orders over $150",
           "cart_empty": "Oops, There’s nothing in your cart"
+        }
+      },
+      "klaviyo-backinstock": {
+        "type": "klaviyo-backinstock",
+        "settings": {
         }
       }
     },
