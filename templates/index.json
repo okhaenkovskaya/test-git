@@ -22,7 +22,7 @@
       "type": "products-carousel",
       "settings": {
         "carousel_title": "New arrivals",
-        "carousel_coll": "necklace",
+        "carousel_coll": "test-collection",
         "carousel_coll_lm": 15,
         "carousel_desk": 5,
         "carousel_mob": 2,
