@@ -29,8 +29,8 @@
                           {{ media.preview_image | image_url: width: 1500 | image_tag: preload: true, loading: "lazy" }}
                             <span class="video-play" data-videosrc="{{ media.sources[1].url }}" data-videotype="{{ media.sources[1].mime_type }}">{%- render 'icon-play' -%}</span>
                         {% else %}
-                            <div class="swiper-zoom-container">
-                                <figure class="zoom lazyload" data-zoomimg="{{ media.src | img_url: 'x2024' }}">
+                            <div class="">
+                                <figure class="lazyload" data-zoomimg="{{ media.src | img_url: 'x2024' }}">
                                  {%- liquid 
                                     assign lazyload = "lazy"
                                     if forloop.first == true
