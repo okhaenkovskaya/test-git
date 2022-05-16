@@ -27,11 +27,24 @@
               "f_urltext": "",
               "f_url": ""
             }
+          },
+          "b6f29cfe-e201-4619-b51d-f0211e3f4a75": {
+            "type": "menu",
+            "settings": {
+              "menuitem": "main-menu",
+              "f_image_ord": "0",
+              "f_color": "#ffffff",
+              "f_pretitle": "",
+              "f_title": "",
+              "f_urltext": "",
+              "f_url": ""
+            }
           }
         },
         "block_order": [
           "96eaec1b-2e8c-482f-a375-ebceb4abc648",
-          "a91fe195-ec38-4cc2-b888-16179535d20d"
+          "a91fe195-ec38-4cc2-b888-16179535d20d",
+          "b6f29cfe-e201-4619-b51d-f0211e3f4a75"
         ],
         "settings": {
           "infobar": "<p>FREE SHIPPING ON ALL DOMESTIC ORDERS OVER $250<\/p>",
